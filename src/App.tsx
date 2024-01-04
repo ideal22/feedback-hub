@@ -19,11 +19,3 @@ function App() {
 }
 
 export default App
-
-{
-  /* <picture>
-                <source srcSet="https://demo.smartbank.uz/images/elements/samsung.webp 1x, https://demo.smartbank.uz/images/elements/samsung@2x.webp 2x" type="image/webp">
-                <source srcSet="https://demo.smartbank.uz/images/elements/samsung.png 1x, https://demo.smartbank.uz/images/elements/samsung@2x.png 2x" type="image/png">
-                <img src="https://demo.smartbank.uz/images/elements/samsung.png" class="hidden xl:block w-72 pointer-events-none absolute right-8 bottom-32 -z-1 app__samsung hxl:w-[180px] hxl:bottom-24" alt="samsung" width="310" height="598">
-            </picture> */
-}

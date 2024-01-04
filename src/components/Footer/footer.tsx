@@ -2,14 +2,14 @@ import LeftIcon from '../../assets/icons/left-icon.svg'
 
 const Footer = () => {
   return (
-    <footer className="max-w-[1374px] mx-auto bg-fonts rounded-[40px] text-white mt-[210px] text-center pt-[89px] pb-[60px] px-5">
-      <h2 className="text-[48px] font-extrabold leading-[66px] tracking-[-1px]">
+    <footer className="xl:max-w-[1374px] lg:max-w-[980px] md:max-w-[756px] sm:max-w-[620px] xs:max-w-[350px] mx-auto bg-fonts rounded-[40px] text-white mt-32 md:mt-40 lg:mt-[210px] text-center lg:pt-[89px] lg:pb-[60px] py-[20px] px-8">
+      <h2 className="text-2xl sm:text-[28px] md:text-4xl lg:text-5xl font-extrabold lg:leading-[66px] tracking-[-1px]">
         Get Started
       </h2>
-      <p className="mt-[30px] text-[28px] font-normal leading-[58px]">
+      <p className="mt-4 lg:mt-[30px] text-[18px] md:text-2xl lg:text-[28px] font-normal lg:leading-[58px]">
         Ready to elevate your customer feedback system?
       </p>
-      <p className="mt-[16px] text-[28px] font-normal leading-[58px]">
+      <p className="mt-2 text-[18px] md:text-2xl lg:text-[28px] font-normal lg:leading-[58px]">
         Get in touch with us to learn more.
       </p>
 
